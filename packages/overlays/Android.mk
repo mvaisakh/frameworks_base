@@ -33,6 +33,7 @@ LOCAL_REQUIRED_MODULES := \
 	FontBariolSourceOverlay \
 	FontCagliostroSourceOverlay \
 	FontCoolstorySourceOverlay \
+    FontFiraSansSourceOverlay \
 	FontLGSmartGothicSourceOverlay \
 	FontGoogleSansOverlay \
 	FontNotoSerifSourceOverlay \
