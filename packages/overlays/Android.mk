@@ -33,18 +33,40 @@ LOCAL_REQUIRED_MODULES := \
 	FontBariolSourceOverlay \
 	FontCagliostroSourceOverlay \
 	FontCoolstorySourceOverlay \
-    FontFiraSansSourceOverlay \
+	FontFiraSansSourceOverlay \
 	FontLGSmartGothicSourceOverlay \
 	FontGoogleSansOverlay \
 	FontNotoSerifSourceOverlay \
 	FontRosemarySourceOverlay \
-    FontSamsungOneSourceOverlay \
+	FontSamsungOneSourceOverlay \
 	FontSFProOverlay \
 	FontSonySketchSourceOverlay \
 	FontSurferSourceOverlay \
 	FontRubikRubikOverlay \
 	FontCircularStdOverlay \
 	FontSlateForOnePlusOverlay \
+	FontBigNoodle \
+	FontBikoHanken \
+	FontComicNeue \
+	FontExo2 \
+	FontFinlandica \
+	FontGoodlight \
+	FontGravity \
+	FontInter \
+	FontLeagueMonoNarrow \
+	FontLeonSans \
+	FontMescla \
+	FontMittelschrift \
+	FontOdibee \
+	FontPanamericana \
+	FontPissel \
+	FontPTSansMono \
+	FontReemKufi \
+	FontRoboto \
+	FontRouterGothicNarrow \
+	FontRoutedGothicRobotoCondensed \
+	FontSofiaSans \
+	FontSofiaSansSemiCondensed \
 	IconPackCircularAndroidOverlay \
 	IconPackCircularLauncherOverlay \
 	IconPackCircularSettingsOverlay \
